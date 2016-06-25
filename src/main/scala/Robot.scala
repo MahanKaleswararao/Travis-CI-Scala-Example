@@ -3,7 +3,7 @@ class Robot {
 
   def name = robotName
 
-  def reset = {
+  def reset() = {
     robotName = makeName
   }
 
