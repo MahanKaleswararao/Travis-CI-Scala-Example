@@ -1,4 +1,4 @@
-# Travis CI Scala Example
+# Travis CI Scala Example [![Build Status](https://travis-ci.org/kwoolytech/Travis-CI-Scala-Example.svg?branch=master)](https://travis-ci.org/kwoolytech/Travis-CI-Scala-Example)
 
 Simple Travis CI example for a Scala project.
 
