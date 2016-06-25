@@ -7,3 +7,6 @@ Simple Travis CI example for a Scala project.
  - Specify the sbt version ```.travis.yml``` (Make sure to match with the one in the  build.sbt file.)
  - Test if ```sbt ++2.11.7 test``` runs on the local 
  - Push the changes
+
+## Reference
+ - [How to embed build status to Github](https://docs.travis-ci.com/user/status-images)
