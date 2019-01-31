@@ -10,3 +10,5 @@ Simple Travis CI example for a Scala project.
 
 ## Reference
  - [How to embed build status to Github](https://docs.travis-ci.com/user/status-images)
+
+[![Build Status](https://travis-ci.org/MahanKaleswararao/Travis-CI-Scala-Example.svg?branch=master)](https://travis-ci.org/MahanKaleswararao/Travis-CI-Scala-Example)
